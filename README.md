@@ -14,11 +14,11 @@ The workflow:
 ---
 
 ## Features
-✅ Works with any public PDB entries  
-✅ Removes common crystallography artifacts  
-✅ Supports bulk upload of IDs  
-✅ SMILES caching reduces repeated lookups  
-✅ Outputs Excel with `pdb_id`, `title`, `chem_comp_id`, `smiles`  
+- Works with any public PDB entries  
+- Removes common crystallography artifacts  
+- Supports bulk upload of IDs  
+- SMILES caching reduces repeated lookups  
+- Outputs Excel with `pdb_id`, `title`, `chem_comp_id`, `smiles`  
 
 ---
 
